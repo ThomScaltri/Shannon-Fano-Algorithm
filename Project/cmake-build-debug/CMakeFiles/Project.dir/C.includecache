@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/ShF.c
+ShF.h
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/ShF.h
+math.h
+-
+stdbool.h
+-
+
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/ShF.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+stream.h
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/stream.h
+
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/bit_op.h
+stdio.h
+-
+
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/stream.c
+stream.h
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/stream.h
+
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/stream.h
+utils.h
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/utils.h
+bit_op.h
+/Users/thom/Desktop/RepoGitASD/asd20202021tpgr211/Project/bit_op.h
+stdio.h
+-
+

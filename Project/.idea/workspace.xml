@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9428dc06-1297-4e34-88f3-7cc75d7726e3" name="Default Changelist" comment="shannon fano code working (finally)">
+      <change beforePath="$PROJECT_DIR$/../ShF.c" beforeDir="false" afterPath="$PROJECT_DIR$/../ShF.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="clangTidyViaClangd" value="false" />
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="BRANCH" value="dev" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jmAxX1J1pIDmgUc9rbW4GW5DwE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9428dc06-1297-4e34-88f3-7cc75d7726e3" name="Default Changelist" comment="" />
+      <created>1604399139246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604399139246</updated>
+      <workItem from="1604399140302" duration="12074000" />
+      <workItem from="1604825017668" duration="2314000" />
+      <workItem from="1604929417777" duration="1166000" />
+      <workItem from="1605010462262" duration="289000" />
+      <workItem from="1605363483020" duration="10306000" />
+      <workItem from="1605523613925" duration="3353000" />
+      <workItem from="1605713185021" duration="1041000" />
+      <workItem from="1605916056450" duration="9000" />
+      <workItem from="1605951493396" duration="40000" />
+      <workItem from="1605957141550" duration="170000" />
+      <workItem from="1605996748432" duration="2654000" />
+      <workItem from="1606128521898" duration="10803000" />
+      <workItem from="1606576100834" duration="10962000" />
+      <workItem from="1606663206795" duration="618000" />
+      <workItem from="1606663846442" duration="26141000" />
+      <workItem from="1607177270311" duration="880000" />
+      <workItem from="1607611609153" duration="5996000" />
+      <workItem from="1608388146742" duration="116000" />
+      <workItem from="1608388294527" duration="347000" />
+      <workItem from="1608389325235" duration="597000" />
+      <workItem from="1608549855492" duration="10723000" />
+      <workItem from="1609074251079" duration="3046000" />
+      <workItem from="1609159251464" duration="9251000" />
+      <workItem from="1609169751519" duration="36635000" />
+      <workItem from="1609631130110" duration="23749000" />
+      <workItem from="1609754682108" duration="21438000" />
+      <workItem from="1609835678679" duration="45243000" />
+      <workItem from="1609973004112" duration="6417000" />
+      <workItem from="1609980485787" duration="8416000" />
+      <workItem from="1625659468061" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="Mergesort inlcuded in shf code to fix problems">
+      <created>1604399813783</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604399813783</updated>
+    </task>
+    <task id="LOCAL-00002" summary="some fixing">
+      <created>1605450772567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605450772567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="some fixing">
+      <created>1605451253665</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451253665</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readded file library">
+      <created>1605451403682</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451403682</updated>
+    </task>
+    <task id="LOCAL-00005" summary="readded file library">
+      <created>1605451669789</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605451669789</updated>
+    </task>
+    <task id="LOCAL-00006" summary="readded file library">
+      <created>1605452109548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605452109548</updated>
+    </task>
+    <task id="LOCAL-00007" summary="some fixing">
+      <created>1606000911320</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606000911320</updated>
+    </task>
+    <task id="LOCAL-00008" summary="shannon fano code working (finally)">
+      <created>1606763180715</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606763180715</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Mergesort inlcuded in shf code to fix problems" />
+    <MESSAGE value="readded file library" />
+    <MESSAGE value="some fixing" />
+    <MESSAGE value="shannon fano code working (finally)" />
+    <option name="LAST_COMMIT_MESSAGE" value="shannon fano code working (finally)" />
+  </component>
+</project>

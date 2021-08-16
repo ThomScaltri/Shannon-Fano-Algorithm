@@ -1,0 +1,9 @@
+
+
+LZS(Lempel Ziv Stack) è un algoritmo di compressione dati lossless brevettato nel 1983 che sfrutta una combinazione di LZ77 e una codifica di Huffman statica. Una delle sue peculiarità è che non richiede informazioni a priori su dati da codificare, ma riesce a dedurre le informazioni sul file da comprimere implicitamente. Si categorizza come algoritmo a dizionario implicito, in quanto tiene traccia di una certa quantità di dati precedente processata mediante una sliding window [2].
+
+In particolar modo i due algoritmi utilizzano tale combinazione come segue:
+ricerca di eventuali match all’indietro basandosi sulla logica definita nell'algoritmo LZ77.
+codifica statica di eventuali match definita dallo standard ANSI X3.241-1994.
+
+Inoltre, l’algoritmo impiega  un pattern unico chiamato end marker allo scopo di indicare la fine del blocco di dati compresso. Il pattern è il seguente:  ‘110000000’.[1]

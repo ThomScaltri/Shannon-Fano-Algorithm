@@ -1,0 +1,1 @@
+gcc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Project.dir/ShF.c.o CMakeFiles/Project.dir/file.c.o CMakeFiles/Project.dir/stream.c.o CMakeFiles/Project.dir/bit_op.c.o  -o Project  -lm 
